@@ -10,5 +10,8 @@
     <string name="fill_your_email">Fill your email</string>
     <string name="reset_password">Reset Password</string>
     <string name="kembali">kembali</string>
+<<<<<<< HEAD
     <string name="btn_logout">Logout</string>
+=======
+>>>>>>> 219c78bdd8b1cef99a4df59ea6836fc83599ed95
 </resources>
